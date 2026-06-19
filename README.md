@@ -1,4 +1,7 @@
 # 🧬 Caógeno – Hack The Box (Dificultad Duro)
+<p align="center">
+  <img src="caogeno.png" alt="Caógeno Banner" width="100%" />
+</p>
 
 ```text
     ██████╗  █████╗  ██████╗  ██████╗ ███████╗███╗   ██╗ ██████╗ 
